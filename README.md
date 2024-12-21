@@ -12,5 +12,8 @@ This clock is inspired by the light effects of the **Corpus Clock**, located on 
 - Hypnotic LED movement of the hands.
 - Time synchronization via Wi-Fi to NTP (Network Time Protocol) server.
 
+## 3D Model
+https://makerworld.com/en/models/901892#profileId-861085
+
 ## License
 GNU GENERAL PUBLIC LICENSE Version 3
